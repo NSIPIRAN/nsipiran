@@ -16,3 +16,11 @@ Intereses:
 <details>
   <summary>C.V</summary>
   <br>
+<p align="center">
+  <a href="https://dev.to/puf17640">
+    <img src="https://svgur.com/i/TKs.svg" width="24px"/>
+  </a>
+  &emsp;
+  <a href= "https://www.instagram.com/">
+    <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
+  </a>
