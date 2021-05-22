@@ -1,4 +1,4 @@
-### Nathaly Sipiran Morillo👋
+### 
 
 ![](images/group218.png)
 
