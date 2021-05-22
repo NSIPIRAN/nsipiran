@@ -1,6 +1,6 @@
 ### 
 
-![](images/group218.png)
+![](images/group 218.png)
 
 <p align="center">
     <a href="https://www.instagram.com/nathaly_sipiran_morillo"><img src="https://img.shields.io/badge/Instagram--_.svg?label=Instagram&style=social&logo=instagram" alt="Instagram Naths"></a>
