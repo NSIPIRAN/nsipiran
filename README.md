@@ -2,24 +2,21 @@
 
 ![](images/img16.png)
 
-Intereses:
-
-- 🔭 Me gusta el futbol!
-- 🌱 Creo que las señales sociales que pueden exhibir los chatbots me hacen dudar de mi humanidad!
-- 👯 Me gusta atrevidamente todo el desarrollo de software web, aunque me apego al backend.
-- 🤔 Yo quiero al backend, el backend me odia.
-- 💬 Me gusta la puntualidad.
-- 📫 Escritora frustrada.
-- 😄 Cuento chistes muy malos
-- ⚡ Han pasado 84 años... mis chistes siguen siendo malos
-<details>
-  <summary>C.V</summary>
-  <br>
 <p align="center">
-  <a href="https://dev.to/puf17640">
-    <img src="https://svgur.com/i/TKs.svg" width="24px"/>
-  </a>
-  &emsp;
-  <a href= "https://www.instagram.com/">
-    <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
-  </a>
+    <a href="https://www.instagram.com/nathaly_sipiran_morillo">
+        <img src="https://img.shields.io/twitter/url?label=Nath%27s%20Twitter&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fnathaly_sipiran_morillo%2F%3Fhl%3Des-la" alt="Twitter Naths">
+    </a>
+  
+    
+    <a href="https://www.linkedin.com/in/nathaly-sipiran-4715aa1b7/">
+        <img src="https://img.shields.io/twitter/url?label=Nath%27s%20Profile%20Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnathaly-sipiran-4715aa1b7%2F" alt="LinkedIn">
+    </a>
+   <a href="https://www.linkedin.com/in/nathaly-sipiran-4715aa1b7/">
+        <img src="  https://img.shields.io/twitter/url?label=Nath%27s%20Codepen&logo=codepen&style=social&url=https%3A%2F%2Fcodepen.io%2Fnsipiran
+" alt="LinkedIn">
+    </a>
+  
+  
+  
+  
+</p>
